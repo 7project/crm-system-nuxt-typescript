@@ -1,6 +1,4 @@
-<script lang="ts" setup>
-import { Button } from "@/components/ui/button";
-</script>
+<script lang="ts" setup></script>
 
 <template>
   <aside class="px-5 py-8 bg-sidebar h-full relative w-full">
@@ -12,6 +10,6 @@ import { Button } from "@/components/ui/button";
         class="mx-auto"
       ></NuxtImg>
     </NuxtLink>
-    <Button variant="outline">Button</Button>
+    <UIButton variant="outline">Button</UIButton>
   </aside>
 </template>
