@@ -12,6 +12,6 @@
   },
   "aliases": {
     "components": "@/crm-system-nuxt-typescript/components",
-    "utils": "@/lib/utils"
+    "utils": "@/crm-system-nuxt-typescript/lib/utils"
   }
 }
